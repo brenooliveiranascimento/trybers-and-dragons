@@ -1,3 +1,14 @@
 import Race from './Races';
+import Orc from './Orc';
+import Halfling from './Halfling';
+import Elf from './Elf';
+import Dwarf from './Dwarf';
 
 export default Race;
+
+export {
+  Orc,
+  Halfling,
+  Elf,
+  Dwarf,
+};
